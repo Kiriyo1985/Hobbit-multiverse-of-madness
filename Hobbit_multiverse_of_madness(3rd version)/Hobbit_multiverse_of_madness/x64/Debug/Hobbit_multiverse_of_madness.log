@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\User\source\repos\Hobbit_multiverse_of_madness(3rd version)\Hobbit_multiverse_of_madness\Character.h(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Hobbit_multiverse_of_madness(3rd version)\Hobbit_multiverse_of_madness\Notification.h(98): warning C4715: action: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\Hobbit_multiverse_of_madness(3rd version)\Hobbit_multiverse_of_madness\Notification.h(280): warning C4715: Pivot::text_out: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\User\source\repos\Hobbit_multiverse_of_madness(3rd version)\x64\Debug\Hobbit_multiverse_of_madness.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Hobbit_multiverse_of_madness.vcxproj -> C:\Users\User\source\repos\Hobbit_multiverse_of_madness(3rd version)\x64\Debug\Hobbit_multiverse_of_madness.exe
